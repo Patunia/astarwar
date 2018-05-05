@@ -1,2 +1,2 @@
 # astarwar
-heruko app
+heroku app
